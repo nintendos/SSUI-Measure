@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>SSUI Measure</title>
-    <link>https://raw.githubusercontent.com/nintendos/sketch-measure/ssui-measure/appcast.xml</link>
+    <link>https://raw.githubusercontent.com/nintendos/SSUI-Measure/main/appcast.xml?token=AA43LY5HWTUCYBAHZJMGZK27Q2HHI</link>
     <description>Live Better</description>
     <language>en</language>
 		<item>
@@ -14,7 +14,7 @@
 					</ul>
 				]]>
 			</description>
-			<enclosure url="https://github.com/nintendos/sketch-measure/archive/ssui-measure.zip" sparkle:version="2.8.1" type="application/octet-stream" />
+			<enclosure url="https://github.com/nintendos/SSUI-Measure/archive/main.zip" sparkle:version="2.8.1" type="application/octet-stream" />
 		</item>
   </channel>
 </rss>
