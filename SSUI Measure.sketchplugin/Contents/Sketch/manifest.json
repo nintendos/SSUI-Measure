@@ -1,5 +1,5 @@
 {
-    "author": "ssui",
+    "author": "SSUI",
     "commands" : [
         {
             "name": "Toolbar",
@@ -175,7 +175,7 @@
         "title" : "SSUI Measure"
     },
     "identifier": "com.ssui.measure",
-    "appcast": "https://raw.githubusercontent.com/nintendos/SSUI-Measure/main/appcast.xml?token=AA43LY5HWTUCYBAHZJMGZK27Q2HHI",
+    "appcast": "https://raw.githubusercontent.com/nintendos/SSUI-Measure/main/appcast.xml",
     "homepage": "",
     "version": "2.8.1",
     "description" : "Live Better",
