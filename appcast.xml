@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SSUI Measure</title>
+    <link>https://raw.githubusercontent.com/nintendos/sketch-measure/ssui-measure/appcast.xml</link>
+    <description>Live Better</description>
+    <language>en</language>
+		<item>
+			<title>Version 2.8.1</title>
+			<description>
+				<![CDATA[
+					<ul>
+						<li>Support Sketch v52</li>
+					</ul>
+				]]>
+			</description>
+			<enclosure url="https://github.com/nintendos/sketch-measure/archive/ssui-measure.zip" sparkle:version="2.8.1" type="application/octet-stream" />
+		</item>
+  </channel>
+</rss>
